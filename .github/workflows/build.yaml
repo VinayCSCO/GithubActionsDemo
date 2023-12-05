@@ -1,4 +1,4 @@
-name: Deploy feature branches to nonproduction bucket
+name: Deploy feature branches to S3 bucket
 
 
 
@@ -21,7 +21,6 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-
       BUCKET_NAME: lakkakulaweb
 
     steps:
