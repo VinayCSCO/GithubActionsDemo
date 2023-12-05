@@ -21,21 +21,14 @@ const IndexPage = () => {
           </h1>
       
 
-          <p className='description'>
-            Join Our Mailing List!
-            <br/>
-            <input type="text"></input>
-            <br/>
-            <button>Submit</button>
-          </p>
 
           <footer className='footer'>
             <a
-              href="https://acloud.guru"
+              href="https://www.cisco.com/"
             >
               Powered by{' '}
               <span className='logo'>
-                <StaticImage src="../images/ACG_Orange_Logo_Horizontal.png" alt="A Cloud Guru logo" width={119} height={16} />
+                <StaticImage src="../images/Cisco.jpg" alt="Cisco" width={119} height={16} />
               </span>
             </a>
           </footer>
