@@ -9,7 +9,7 @@ const IndexPage = () => {
     <Layout>
       <header>
         <title>Cloud Coffee</title>
-        <meta name="description" content="Bringing Coffee to the Cloud" />
+        <meta name="description" content="Welcome EngCommons" />
       </header>
       
       <main className='main'>
@@ -17,7 +17,7 @@ const IndexPage = () => {
 
           <h1 className='title'>
             Welcome to{' '}
-            <code className='title_code'>Cloud Coffee</code>
+            <code className='title_code'>Cisco SBG</code>
           </h1>
       
 
@@ -28,7 +28,7 @@ const IndexPage = () => {
             >
               Powered by{' '}
               <span className='logo'>
-                <StaticImage src="../images/Cisco.jpg" alt="Cisco" width={300} height={300} />
+                <StaticImage src="../images/Cisco.jpg" alt="Cisco" width={200} height={200} />
               </span>
             </a>
           </footer>
