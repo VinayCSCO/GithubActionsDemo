@@ -28,7 +28,7 @@ const IndexPage = () => {
             >
               Powered by{' '}
               <span className='logo'>
-                <StaticImage src="../images/Cisco.jpg" alt="Cisco" width={119} height={16} />
+                <StaticImage src="../images/Cisco.jpg" alt="Cisco" width={300} height={300} />
               </span>
             </a>
           </footer>
