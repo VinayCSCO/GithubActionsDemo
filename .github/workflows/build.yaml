@@ -24,7 +24,6 @@ jobs:
       BUCKET_NAME: lakkakulaweb
 
     steps:
-
       - name: Check out code
 
         uses: actions/checkout@v2
