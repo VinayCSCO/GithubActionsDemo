@@ -8,7 +8,7 @@ const IndexPage = () => {
   return (
     <Layout>
       <header>
-        <title>Cloud Coffee</title>
+        <title>Engineering Commons.</title>
         <meta name="description" content="Welcome EngCommons" />
       </header>
       
@@ -16,7 +16,7 @@ const IndexPage = () => {
         
 
           <h1 className='title'>
-            Welcome to{' '}
+            Welcome to {' '}
             <code className='title_code'>Cisco SBG</code>
           </h1>
       
